@@ -7,4 +7,4 @@
  └── batch_predict.py: 批量图像预测脚本
 ```
  ## 模型获取
- 本项目所使用的各种模型见 (weights)[https://pan.xunlei.com/s/VOPxGjL5Ijb-lTNxNiAjDF2mA1?pwd=euiw]
+ 本项目所使用的各种模型见 [weights](https://pan.xunlei.com/s/VOPxGjL5Ijb-lTNxNiAjDF2mA1?pwd=euiw)
